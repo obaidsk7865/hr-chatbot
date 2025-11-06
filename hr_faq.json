@@ -1,0 +1,42 @@
+[
+  {
+    "question": "How many paid leaves do I have per year?",
+    "answer": "Employees are entitled to 18 paid leaves per year (includes casual and sick leave). For precise allocation by grade, check the leave policy document or contact HR."
+  },
+  {
+    "question": "What is the process for reimbursement of travel expenses?",
+    "answer": "To claim travel reimbursement, submit the Travel Reimbursement Form along with scanned receipts within 15 days of travel. Manager approval is required. Payment will be processed in the next payroll cycle."
+  },
+  {
+    "question": "How do I apply for maternity/paternity leave?",
+    "answer": "Apply via the HR portal under 'Leave Requests' and select 'Maternity/Paternity'. Attach required documents. For more details on eligibility and duration, refer to the Maternity Leave policy."
+  },
+  {
+    "question": "How do I update my bank details for salary?",
+    "answer": "Update bank details via the Employee Self Service portal. Ensure you include a cancelled cheque or bank confirmation letter. HR will verify details before the next payroll run."
+  },
+  {
+    "question": "What documents are required for medical reimbursement?",
+    "answer": "Submit original medical bills, doctor prescriptions, and discharge summary (if applicable) along with the Medical Reimbursement Form. Claims must be submitted within 30 days of treatment."
+  },
+  {
+    "question": "Who do I contact for payroll discrepancies?",
+    "answer": "If there is a payroll discrepancy, email payroll@company.com with your employee ID, pay period, and a description. HR / Payroll team will respond within 3 business days."
+  },
+  {
+    "question": "Can I work remotely or request hybrid work?",
+    "answer": "Remote and hybrid work requests are handled per team policy. Submit a request to your manager and HR will confirm eligibility based on role and business needs."
+  },
+  {
+    "question": "How do I raise a grievance?",
+    "answer": "Raise a grievance through the HR portal under 'Grievances' or contact your HR Business Partner. All grievances will be handled confidentially."
+  },
+  {
+    "question": "What are the office timings and flexible hours policy?",
+    "answer": "Standard office hours are 9:30 AM to 6:30 PM with a 1-hour lunch break. Flexible hours may be allowed with manager approval; check the Flexible Work Hours policy."
+  },
+  {
+    "question": "What is the reimbursement limit for team lunches or client entertainment?",
+    "answer": "Entertainment and team lunch reimbursements are subject to policy limits. Typical limit per person is INR 500 for internal team lunches. Always upload receipts and manager approval."
+  }
+]
